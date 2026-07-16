@@ -1,0 +1,3 @@
+bcc
+melanoma
+none
