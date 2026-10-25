@@ -1,10 +1,10 @@
 # skin_sense
 
-A new Flutter project.
+An AIML project 
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Predicts skin cancer from patients data uses CNN,Resnet,SVM
 
 A few resources to get you started if this is your first Flutter project:
 
